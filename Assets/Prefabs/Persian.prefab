@@ -197,7 +197,7 @@ MonoBehaviour:
   rangedAttack: 0
   attackPrefab: {fileID: 7142979309733015658, guid: fa19b34bd977ae54191963b74067555c,
     type: 3}
-  damage: 15
+  damage: 1.5
   reach: 40
   reachSpeed: 3
   attackCooldown: 1
@@ -231,12 +231,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87ec5ead74edd5749b30b6aa182ecbe2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-
   minDistanceToCharge: 14
   minDistanceToBrace: 3
   minDistanceToAttack: 1
   chanceToDoNothing: 0.2
-
   agressiveMod: 0
 --- !u!114 &9145254417582613910
 MonoBehaviour:

@@ -174,9 +174,9 @@ MonoBehaviour:
   rangedAttack: 1
   attackPrefab: {fileID: 6731192041798751121, guid: ecc07dba3e53b7247a5f93ad1e43af4c,
     type: 3}
-  damage: 50
+  damage: 2
   reach: 16
-  reachSpeed: 2
+  reachSpeed: 4
   attackCooldown: 20
   timeBeforeDestruct: 20
   attackFreeze: 3
